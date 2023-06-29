@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89042134102",
+    "project_id": "sipara-2023",
+    "storage_bucket": "sipara-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89042134102:android:9b594c9a068caeb20447f7",
+        "android_client_info": {
+          "package_name": "com.cshinta.sipara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89042134102-5d405m5va54bgo6cl218vk9c127k96ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9eRyD2qui2Gzz6fINYmwnDnW0PpXjPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89042134102-5d405m5va54bgo6cl218vk9c127k96ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
